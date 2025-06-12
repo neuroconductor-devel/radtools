@@ -19,4 +19,4 @@ Suggests: testthat, covr, knitr, rmarkdown, rvest, hashmap, stringr, xml2
 VignetteBuilder: knitr
 NeedsCompilation: no
 Remotes: 
-    hashmap=url::https://github.com/ay-lab/dcHiC/blob/master/packages/hashmap_0.2.2.tar.gz
+    hashmap=url::https://cran.r-project.org/src/contrib/Archive/hashmap/hashmap_0.2.2.tar.gz
